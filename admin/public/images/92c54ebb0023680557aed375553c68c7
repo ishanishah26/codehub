@@ -1,0 +1,11 @@
+Problem 1: Counting the Uppercase / Lowercase Words in a Text
+
+Write a program that counts the words in a text entered from the console. The program must output the total number of words, the number of words written in uppercase and the number of words written in lowercase. If a word appears more than once in the text, each repetition counts as a new occurrence. Every character that is not a letter counts as a word separator.
+Sample input:
+
+"Welcome to your first programming exam! Can you think of a solution to this problem and write it down? GOOD LUCK!"
+Sample output:
+
+Word count: 21
+Upper case words: 2
+Lower case words: 17﻿
